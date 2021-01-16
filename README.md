@@ -3,6 +3,8 @@
 
 My name is Yachint and I'm a software developer/systems engineer. I'm from India, living in New Delhi and currently working at Infosys. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+<img align="right" alt="GIF" src="https://github.com/Yachint/Yachint/blob/main/work.gif?raw=true" width="325" height="325" style="border-radius:50%" />
+
 
 - 📃 My Resume: <a href="https://drive.google.com/file/d/1jgRDQZroG3ZD5i5E1CSQWXWg6T8NzLsG/view?usp=sharing">Link to GDrive</a>
 - 🌱 I’m currently learning: Typescript
