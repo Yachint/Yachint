@@ -8,6 +8,21 @@ My name is Yachint and I'm a software developer/systems engineer. I'm from India
 - 💬 Ask me about: Blockchain!
 - 📫 How to reach me: Email
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=inactive)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=inactive)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=success)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=success)
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Yachint">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yachint&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
