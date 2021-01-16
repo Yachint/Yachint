@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/Yachint">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachint&layout=compact&exclude_repo=Python_Algo&hide=html,xslt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachint&langs_count=7&layout=compact&exclude_repo=Python_Algo&hide=html,xslt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!--
