@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/Yachint/Yachint/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/Yachint/Yachint/master/wave.gif" width="30px">
 
 
 My name is Yachint and I'm a software developer/systems engineer. I'm from India, living in New Delhi and currently working at Infosys. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
