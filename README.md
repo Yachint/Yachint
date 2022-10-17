@@ -6,7 +6,7 @@ My name is Yachint and I'm a software developer/systems engineer. I'm from India
 <img align="right" alt="GIF" src="https://github.com/Yachint/Yachint/blob/main/work.gif?raw=true" width="325" height="325" style="border-radius:50%" />
 
 
-- 📃 My Resume: <a href="https://docs.google.com/document/d/e/2PACX-1vRDCoDBXf1PjTtMvOk9m-r5rlMWXQA2nEyqOV8vBdALj0myvcPssgY3oa0bKq6yFEhrpPm0yoAYRwG0/pub">Link to GDrive</a>
+- 📃 My Resume: <a href="https://docs.google.com/document/d/1Pd1sMLTwA2VW1QB_81zUa7kbvROiraNPD_gbxabQ0TM/edit?usp=sharing">Link to GDrive</a>
 - 🌱 I’m currently learning: Typescript
 - 👯 I’m looking to collaborate on: Node based projects
 - 💬 Ask me about: Blockchain!
