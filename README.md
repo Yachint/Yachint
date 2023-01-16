@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/Yachint/Yachint/master/wave.gif" width="20px">
 
 
-My name is Yachint and I'm a software developer/systems engineer. I'm from India, living in New Delhi and currently working at Infosys. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Yachint and I'm a software developer/systems engineer. I'm from India, living in New Delhi and currently working at <a href="https://www.linkedin.com/company/supplynote">SupplyNote</a>. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <img align="right" alt="GIF" src="https://github.com/Yachint/Yachint/blob/main/work.gif?raw=true" width="325" height="325" style="border-radius:50%" />
 
